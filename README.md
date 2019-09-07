@@ -4,8 +4,11 @@
 Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
 
 Under which menu item is the Show in Explorer option. Repository
+
 Under which menu item can you Add or Clone repositories. File
+
 Under which menu item can you open your Command Prompt. Repository
+
 List the four views that you can change to under View.
 Changes
 History
@@ -18,32 +21,19 @@ List the two items you can edit under Repository → Repository settings ...
 
 A remote repository is ________.
 ---> A code repository that is on your local computer.
-A database that is seldom used/accessed by an application (typically, a dormant web application).
-A code repository that is not on your local computer.
-A code repository that is kept in a location outside the continental USA.
 
 A local repository is ________.
 ---> A code repository that is on your local computer.
-A database whose connection string specifies data-source=".".
-A code repository that is not on your local computer.
-A code repository that is kept in a location inside the continental USA.
+
 
 The remote repository that you synchronize with referred to as _________.
-upstream
-downstream
 --->origin
-clone
 
 When you make a local copy of a GitHub repository, you are effectively ______ that repository.
-forking
 ---> cloning
-copying
-replacing
 
 What is the order of Git tasks that are done when performing a sync in GitHub Desktop?
-push, fetch, pull
 ---> fetch, merge, push
-push, pull, clean
 
 The git pull command is equivalent to _______.
 git fetch and then git merge
