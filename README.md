@@ -1,4 +1,12 @@
 # DVCS-Exercise
+#Matching
+
+1. F
+2. D
+3. E
+4. B
+5. C
+6. A
 
 #Short Answer & Multiple Choice
 Supply or identify the following short answer/multiple-choice questions. Place your answers in the ReadMe.md file of your repository for this exercise. Clearly identify your question number and your answer.
